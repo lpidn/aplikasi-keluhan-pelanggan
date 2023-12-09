@@ -119,7 +119,7 @@ $no = 0;
 								<?php echo $result['tindak_lanjut']; ?>
 							</td>
 							<td>
-								<?php echo $result['status_perbaikan']; ?>
+								<?php echo $result['status_perbaikan']; ?> 
 							</td>
 							<td>
 								<?php echo $result['nama_teknisi']; ?>
