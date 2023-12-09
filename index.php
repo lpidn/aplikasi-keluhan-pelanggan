@@ -75,7 +75,7 @@ $no = 0;
 		?>
 
 		<div class="table-responsive">
-			<table id="dt" class="table align-middle cell-border hover">
+			<table id="dt" class="table align-middle hover table-bordered">
 				<thead>
 					<tr>
 						<th><center>No.</center></th>
