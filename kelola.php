@@ -64,7 +64,7 @@ if(isset($_GET['ubah'])){
 						Tanggal
 					</label>
 					<div class="col-sm-10">
-						<input type="datetime-local" name="tanggal" class="form-control" id="tanggal" value="<?php $tanggal; ?>">
+						<input required type="date" name="tanggal" class="form-control" id="tanggal" value="<?php echo $tanggal; ?>">
 					</div>
 				</div>
 			</div>
@@ -171,6 +171,8 @@ if(isset($_GET['ubah'])){
 						<?php
 					}
 					?>
+
+
 					<a href="index.php" type="button" class="btn btn-danger">
 						<i class="fa fa-reply" aria-hidden="true"></i>
 						Batal

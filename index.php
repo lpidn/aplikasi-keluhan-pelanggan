@@ -20,7 +20,7 @@ $no = 0;
 
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="fontawesome/css/font-awesome.min.css">
-	
+
 	<!-- Data Tables -->
 	<link rel="stylesheet" type="text/css" href="datatables/datatables.css">
 	<script type="text/javascript" src="datatables/datatables.js"></script>
@@ -44,13 +44,13 @@ $no = 0;
 			</a>
 		</div>
 	</nav>
-	
+
 	<!-- Judul -->
 	<div class="container">
-		<h1 class="mt-4">Laporan Perbaikan Harian</h1>
+		<h1 class="mt-4">Laporan Keluhan User</h1>
 		<figure>
 			<blockquote class="blockquote">
-				<p>Perbaikan Hardware & Software.</p>
+				<p>Keluhan Hardware & Software.</p>
 			</blockquote>
 		</figure>
 
@@ -142,6 +142,6 @@ $no = 0;
 	<div class="mb-5"></div>
 
 
-	
+
 </body>
 </html>
